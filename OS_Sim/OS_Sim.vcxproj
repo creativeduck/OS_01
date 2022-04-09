@@ -142,6 +142,7 @@
     <ClCompile Include="homework_1.cpp" />
     <ClCompile Include="origin.cpp" />
     <ClCompile Include="homework_2.cpp" />
+    <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
